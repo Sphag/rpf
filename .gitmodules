@@ -1,0 +1,7 @@
+[submodule "dependencies/DirectXMath"]
+	path = dependencies/DirectXMath
+	url = https://github.com/Sphag/DirectXMath.git
+[submodule "dependencies/imgui"]
+	path = dependencies/imgui
+	url = https://github.com/Sphag/imgui.git
+	branch = docking
